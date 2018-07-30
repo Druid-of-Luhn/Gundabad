@@ -2,13 +2,13 @@
 
 Gundabad is a dungeon-crawling game built in Processing for the Video Games module at the University of St&nbsp;Andrews.
 
-![A screenshot of Gundabad, where the player 'wef' is surrounded by enemies, but some treasure lies on the floor nearby.](https://wb33.host.cs.st-andrews.ac.uk/gundabad.png "Gundabad screenshot")
+![A screenshot of Gundabad, where the player 'wef' is surrounded by enemies, but some treasure lies on the floor nearby.](gundabad.png "Gundabad screenshot")
 
 ## Character Creation
 
 The game starts with a character creation screen, which uses classic fantasy role-playing game races:
 
-![An elf character called Elladan in Gundabad's character creation screen.](https://wb33.host.cs.st-andrews.ac.uk/gundabad-creation.png "Gundabad character creation")
+![An elf character called Elladan in Gundabad's character creation screen.](gundabad-creation.png "Gundabad character creation")
 
 ## Exploration
 
@@ -28,7 +28,7 @@ Equip and unequip items, and use potions during combat or exploration.
 
 A character levels up as they progress and kill monsters, making them more powerful.
 
-![The character Dante opens their inventory.](https://wb33.host.cs.st-andrews.ac.uk/gundabad-inventory.png "Gundabad inventory")
+![The character Dante opens their inventory.](gundabad-inventory.png "Gundabad inventory")
 
 ## Combat
 
@@ -38,7 +38,7 @@ Fleeing combat will make the player run towards the entrance to the level, while
 
 Note, there is a bug somewhere in the combat code that will crash the game upon winning combat. It is quite rare however, so have fun.
 
-![The character weg fights a goblin and both are taking damage.](https://wb33.host.cs.st-andrews.ac.uk/gundabad-combat.png "Gundabad combat")
+![The character weg fights a goblin and both are taking damage.](gundabad-combat.png "Gundabad combat")
 
 ## Death
 
@@ -51,7 +51,7 @@ The player's character dies if their health points reach 0. At this point they w
 - Attack
 - Defence
 
-![The character D-Warf has died and their results are displayed on the death screen.](https://wb33.host.cs.st-andrews.ac.uk/gundabad-death.png "Gundabad death")
+![The character D-Warf has died and their results are displayed on the death screen.](gundabad-death.png "Gundabad death")
 
 ## License
 
